@@ -1,7 +1,6 @@
 [SDS page](https://www.superdatascience.com/tableau-expert-top-visualization-techniques-tableau-10-download-practice-datasets/) for the datasets
 
 9/17 : upto §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")
-
 29/10/18 : Reset
 
 
@@ -22,29 +21,29 @@
 
 ### §3 Viola Chart
 
-* [08]
-* [09]
-* [10]
-* [11]
-* [12]
-* [13]
-* [14]
-* [15]
+* [08] Section Intro
+* [09] Background and Use Cases
+* [10] Challenge: Symptoms of Wealth Inequality
+* [11] Data Preparation: Excel Manipulation
+* [12] Data Preparation: Custom SQL
+* [13] Core Calculations
+* [14] Building the Core Chart
+* [15] Completing the Visualization
 
 
 ### §4 Hexbin Chart
 
-* [16]
-* [17]
-* [18]
-* [19]
-* [20]
-* [21]
-* [22]
-* [23]
-* [24]
-* [25]
-* [26]
+* [16] Section Intro
+* [17] Background and Use Cases
+* [18] Challenge: US Population Density Modeling
+* [19] Base Hexbin Calculations
+* [20] Data Densification using LOD Calculation
+* [21] Secondary Calculations
+* [22] Building the Chart
+* [23] Problem: The Mercator Distortion
+* [24] Web Mercator Base Hexbin Calculations
+* [25] Web Mercator Secondary Hexbin Calculations
+* [26] Completing the Visualization
 
 
 ### §5 Advanced Table Calculations
