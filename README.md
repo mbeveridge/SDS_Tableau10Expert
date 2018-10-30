@@ -7,15 +7,15 @@
 ### §1 Introduction
 
 * [01](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7766990?start=0) Course Intro
-* [02] Some Additional Resources!!
+* [02](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/9237292?start=0) Some Additional Resources!! [[SDS081](https://www.superdatascience.com/data-visualization-training/) podcast: Nadieh Bremer]
 
 
 ### §2 Domain Padding and Data Densification
 
-* [03] Section Intro
-* [04] What are they and what are they used for?
+* [03](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7774428?start=0) Section Intro ...[*"one of the theories that is really foundational for advanced visualisation techniques"*]
+* [04](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7774634?start=0) What are they and what are they used for?
 * [05] Data prep using Excel
-* [06] Data prep using Custom SQL
+* [06] Data prep using Custom SQL [PC only]
 * [07] Data prep using LOD calculation
 
 
