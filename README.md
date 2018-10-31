@@ -13,8 +13,8 @@
 ### §2 Domain Padding and Data Densification
 
 * [03](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7774428?start=0) Section Intro ...[*"one of the theories that is really foundational for advanced visualisation techniques"*]
-* [04](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7774634?start=0) What are they and what are they used for?
-* [05] Data prep using Excel
+* [04](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7774634?start=0) What are they and what are they used for? ...[*"Data Densification : you run a table calc across a padded range" @7'47*] [*"A lot of times, when drawing custom charts, it involves drawing a line ... across marks that don't exist in our data" @8'30*]
+* [05](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776220?start=0) Data prep using Excel
 * [06] Data prep using Custom SQL [PC only]
 * [07] Data prep using LOD calculation
 
