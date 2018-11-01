@@ -16,12 +16,12 @@
 * [04](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7774634?start=0) What are they and what are they used for? ...[*"Data Densification: you run a table calc across a padded range" @7'47*] [*"A lot of times, when drawing custom charts, it involves drawing a line ... across marks that don't exist in our data" @8'30*]
 * [05](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776220?start=0) Data prep using Excel ...[*With this method: "Make sure your calculations take into account the idea that you've doubled your data" @5'22*]
 * [06](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776222?start=0) Data prep using Custom SQL [PC only]
-* [07](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776228?start=0) Data prep using LOD calculation ...[*"probably my favourite way to do it, which doesn't involve duplicating your data, and is really powerful" @7'16 Lect06*]
+* [07](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776228?start=0) Data prep using LOD calculation ...[*"Remember you have to have [at least] 2 records per 'combination of Dimension' that you're [attempting to Pad on]..." @7'46 & Quiz*]
 
 
 ### §3 Viola Chart
 
-* [08] Section Intro
+* [08](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776244?start=0) Section Intro
 * [09] Background and Use Cases
 * [10] Challenge: Symptoms of Wealth Inequality
 * [11] Data Preparation: Excel Manipulation
