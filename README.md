@@ -24,7 +24,7 @@
 * [08](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776244?start=0) Section Intro
 * [09](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776250?start=0) Background and Use Cases ...[[Mike](https://www.mikevizneros.com/single-post/2017/03/29/Not-a-Violin-Chart) [Cisneros](https://public.tableau.com/profile/mikevizneros#!/) : [@mikevizneros](https://twitter.com/mikevizneros)] [[Ben Young](https://public.tableau.com/profile/ben.young#!/)]
 * [10](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776252?start=0) Challenge: Symptoms of Wealth Inequality
-* [11] Data prep: Excel Manipulation
+* [11](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776254?start=0) Data prep: Excel Manipulation
 * [12] Data prep: Custom SQL
 * [13] Core Calculations
 * [14] Building the Core Chart
