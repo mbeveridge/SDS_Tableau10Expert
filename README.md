@@ -26,8 +26,8 @@
 * [10](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776252?start=0) Challenge: Symptoms of Wealth Inequality
 * [11](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776254?start=0) Data prep: Excel Manipulation (**step1**)
 * [12](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776256?start=0) Data prep: Custom SQL (**step2**) ...[*also shows how to do it in Excel*]
-* [13](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776258?start=0) Core Calculations
-* [14] Building the Core Chart
+* [13](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776258?start=0) Core Calculations (**step3**)
+* [14](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776260?start=0) Building the Core Chart
 * [15] Completing the Visualization
 
 
