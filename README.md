@@ -28,7 +28,7 @@
 * [12](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776256?start=0) Data prep: Custom SQL (**step2**) ...[*also shows how to do it in Excel*]
 * [13](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776258?start=0) Core Calculations (**step3**)
 * [14](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776260?start=0) Building the Core Chart (**step4**)
-* [15] Completing the Visualization
+* [15](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776262?start=0) Completing the Visualization
 
 
 ### §4 Hexbin Chart
