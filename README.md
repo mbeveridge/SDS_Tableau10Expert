@@ -37,8 +37,8 @@
 * [17](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776272?start=0) Background and Use Cases ...[*Alan Eldridge*]
 * [18](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776274?start=0) Challenge: US Population Density Modeling
 * [19](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776276?start=0) Base Hexbin Calculations
-* [20] Data Densification using LOD Calculation
-* [21] Secondary Calculations
+* [20](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776278?start=0) Data Densification using LOD Calculation (step1)
+* [21](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776280?start=0) Secondary Calculations (step2)
 * [22] Building the Chart
 * [23] Problem: The Mercator Distortion
 * [24] Web Mercator Base Hexbin Calculations
