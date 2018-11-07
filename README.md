@@ -34,7 +34,7 @@
 ### §4 Hexbin Chart
 
 * [16](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776270?start=0) Section Intro
-* [17] Background and Use Cases
+* [17](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776272?start=0) Background and Use Cases
 * [18] Challenge: US Population Density Modeling
 * [19] Base Hexbin Calculations
 * [20] Data Densification using LOD Calculation
