@@ -22,7 +22,7 @@
 ### §3 Viola Chart
 
 * [08](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776244?start=0) Section Intro
-* [09](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776250?start=0) Background and Use Cases ...[[Mike](https://www.mikevizneros.com/single-post/2017/03/29/Not-a-Violin-Chart) [Cisneros](https://public.tableau.com/profile/mikevizneros#!/) : [@mikevizneros](https://twitter.com/mikevizneros)] [[Ben Young](https://public.tableau.com/profile/ben.young#!/)]
+* [09](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776250?start=0) Background and Use Cases ...[*[Mike](https://www.mikevizneros.com/single-post/2017/03/29/Not-a-Violin-Chart) [Cisneros](https://public.tableau.com/profile/mikevizneros#!/) : [@mikevizneros](https://twitter.com/mikevizneros)] [[Ben Young](https://public.tableau.com/profile/ben.young#!/)*]
 * [10](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776252?start=0) Challenge: Symptoms of Wealth Inequality
 * [11](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776254?start=0) Data prep: Excel Manipulation (**step1**)
 * [12](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776256?start=0) Data prep: Custom SQL (**step2**) ...[*also shows how to do it in Excel*]
@@ -34,9 +34,9 @@
 ### §4 Hexbin Chart
 
 * [16](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776270?start=0) Section Intro
-* [17](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776272?start=0) Background and Use Cases
-* [18] Challenge: US Population Density Modeling
-* [19] Base Hexbin Calculations
+* [17](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776272?start=0) Background and Use Cases ...[*Alan Eldridge*]
+* [18](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776274?start=0) Challenge: US Population Density Modeling
+* [19](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776276?start=0) Base Hexbin Calculations
 * [20] Data Densification using LOD Calculation
 * [21] Secondary Calculations
 * [22] Building the Chart
