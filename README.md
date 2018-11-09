@@ -40,7 +40,7 @@
 * [20](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776278?start=0) Data Densification using LOD Calculation (step1)
 * [21](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776280?start=0) Secondary Calculations (**step2**)
 * [22](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776282?start=0) Building the Chart (**step3**)
-* [23] Problem: The Mercator Distortion
+* [23](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776284?start=0) Problem: The Mercator Distortion
 * [24] Web Mercator Base Hexbin Calculations
 * [25] Web Mercator Secondary Hexbin Calculations
 * [26] Completing the Visualization
