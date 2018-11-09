@@ -36,12 +36,12 @@
 * [16](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776270?start=0) Section Intro
 * [17](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776272?start=0) Background and Use Cases ...[*[Alan](https://blog.databender.net/?s=hex) [Eldridge](https://public.tableau.com/profile/alan.e#!/) : [@aeldridge](https://twitter.com/aeldridge)*]
 * [18](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776274?start=0) Challenge: US Population Density Modeling
-* [19](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776276?start=0) Base Hexbin Calculations
-* [20](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776278?start=0) Data Densification using LOD Calculation (step1)
-* [21](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776280?start=0) Secondary Calculations (**step2**)
-* [22](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776282?start=0) Building the Chart (**step3**)
+* [19](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776276?start=0) Base Hexbin Calculations (step1)
+* [20](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776278?start=0) Data Densification using LOD Calculation (step2)
+* [21](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776280?start=0) Secondary Calculations (**step3**)
+* [22](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776282?start=0) Building the Chart (**step4**)
 * [23](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776284?start=0) Problem: The Mercator Distortion
-* [24] Web Mercator Base Hexbin Calculations
+* [24](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776286?start=0) Web Mercator Base Hexbin Calculations (step1a)
 * [25] Web Mercator Secondary Hexbin Calculations
 * [26] Completing the Visualization
 
