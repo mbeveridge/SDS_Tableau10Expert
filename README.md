@@ -49,7 +49,7 @@
 
 ### §5 Advanced Table Calculations
 
-* 28 Section Intro
+* [28](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776292?start=0) Section Intro
 * 29 Basic Table Calculations review
 * 30 Addressing and Partitioning
 * 31 At the Level, Restarting Every, and Compute Using
