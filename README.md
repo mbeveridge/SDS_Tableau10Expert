@@ -44,7 +44,7 @@
 * [24](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776284?start=0) Problem: The Mercator Distortion
 * [25](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776286?start=0) Web Mercator: Base Hexbin Calculations (**step1a**)
 * [26](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776288?start=0) Web Mercator: Secondary Calculations (**step3a**)
-* [27](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776290?start=0) Completing the Visualization
+* [27](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776290?start=0) Completing the Visualization (**step4a**)
 
 
 ### §5 Advanced Table Calculations
