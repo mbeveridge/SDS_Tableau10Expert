@@ -48,6 +48,15 @@
 
 
 ### §5 Advanced Table Calculations
+
+* 28 Section Intro
+* 29 Basic Table Calculations review
+* 30 Addressing and Partitioning
+* 31 At the Level, Restarting Every, and Compute Using
+* 32 Nested Table Calculations
+* 33 Data Densification review
+
+
 ### §6 Sankey Diagram
 ### §7 Likert Scale Visualization
 ### §8 Advanced Dashboard Layout Techniques
