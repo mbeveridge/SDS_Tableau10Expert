@@ -23,7 +23,7 @@
 ### §3 Viola Chart
 
 * [09](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776244?start=0) Section Intro
-* [10](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776250?start=0) Background and Use Cases ...[*[Mike](https://www.mikevizneros.com/single-post/2017/03/29/Not-a-Violin-Chart) [Cisneros](https://public.tableau.com/profile/mikevizneros#!/) : [@mikevizneros](https://twitter.com/mikevizneros)] [[Ben Young](https://public.tableau.com/profile/ben.young#!/)*]
+* [10](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776250?start=0) Background and Use Cases ...[*[Mike](https://www.mikevizneros.com/single-post/2017/03/29/Not-a-Violin-Chart) [Cisneros](https://public.tableau.com/profile/mikevizneros#!/) : [@mikevizneros](https://twitter.com/mikevizneros)*] [*[Ben Young](https://public.tableau.com/profile/ben.young#!/)*]
 * [11](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776252?start=0) Challenge: Symptoms of Wealth Inequality
 * [12](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776254?start=0) Data prep: Excel Manipulation (**step1**)
 * [13](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776256?start=0) Data prep: Custom SQL (**step2**) ...[*also shows how to do it in Excel*]
@@ -51,7 +51,7 @@
 
 * [28](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776292?start=0) Section Intro
 * [29](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776294?start=0) Basic Table Calculations review
-* [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning
+* [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning ...[Jonathan Drummey; Joe Mako; Andy Kriebel]
 * 31 At the Level, Restarting Every, and Compute Using
 * 32 Nested Table Calculations
 * 33 Data Densification review
