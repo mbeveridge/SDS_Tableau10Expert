@@ -52,7 +52,7 @@
 * [28](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776292?start=0) Section Intro
 * [29](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776294?start=0) Basic Table Calculations review
 * [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning ...[Jonathan Drummey; Joe Mako; Andy Kriebel]
-* 31 At the Level, Restarting Every, and Compute Using
+* [31](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776298?start=0) At the Level, Restarting Every, and Compute Using
 * 32 Nested Table Calculations
 * 33 Data Densification review
 
