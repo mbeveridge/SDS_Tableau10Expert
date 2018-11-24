@@ -53,17 +53,17 @@
 * [29](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776294?start=0) Basic Table Calculations review
 * [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning ...[*Jonathan Drummey; Joe Mako; Andy Kriebel*] [*'Compute using' and Restart*]
 * [31](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776298?start=0) **'At the level', 'Restarting every', and 'Sort order'** ...[*eg. sort Region by $Sales separately, for each different Segment*]
-* [32](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776300?start=0) Nested Table Calculations ...[**Unable to grasp the key point @2'45-**] [*Nelson Davis, Chris Love*]
+* [32](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776300?start=0) Nested Table Calculations ...[**Unable to grasp the key point @2'45-**] [*Nelson Davis; Chris Love*]
 * [33](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776302?start=0) Data Densification review ...[**Unable to fully grasp the key point @1'35-**]
 
 
 ### §6 Sankey Diagram
 
 * [34](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776306?start=0) Section Intro
-* [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[Jeffrey Shaffer; Olivier Catherin; Chris Love]
+* [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[*Jeffrey Shaffer; Olivier Catherin; Chris Love*]
 * [36](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776310?start=0) Challenge: Titanic Passenger Survival
-* [37](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776312?start=0) Data Preparation using LOD calculation (a variant)
-* 38 Base Sankey Calculations
+* [37](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776312?start=0) Data Preparation using LOD calculation (a variant) (**step1**)
+* [38](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776314?start=0) Base Sankey Calculations (step2)
 * 39 Secondary Calculations
 * 40 Building the Core Chart: Nested Table Calculations
 * 41 Percents of Totals
