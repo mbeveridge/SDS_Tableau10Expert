@@ -17,7 +17,7 @@
 * [05](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/12497728?start=0) Updates on Udemy Reviews
 * [06](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776220?start=0) Data prep using Excel ...[*With this method: "Make sure your calculations take into account the idea that you've doubled your data" @5'22*]
 * [07](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776222?start=0) Data prep using Custom SQL [PC only]
-* [08](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776228?start=0) **Data prep using LOD calculation** ...[*"Remember you have to have [at least] 2 records per 'combination of Dimension' that you're [attempting to Pad on]..." @7'46 & Quiz*]
+* [08](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776228?start=0) **Data prep using LOD calculation** ...[*@4'27 for an `if[ID] =` calc*] [*"Remember you have to have [at least] 2 records per 'combination of Dimension' that you're [attempting to Pad on]..." @7'46 & Quiz*]
 
 
 ### §3 Viola Chart
