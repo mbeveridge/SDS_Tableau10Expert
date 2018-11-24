@@ -61,8 +61,8 @@
 
 * [34](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776306?start=0) Section Intro
 * [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[Jeffrey Shaffer; Olivier Catherin; Chris Love]
-* 36 Challenge: Titanic Passenger Survival
-* 37 Data Preparation using LOD calculation (a variant)
+* [36](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776310?start=0) Challenge: Titanic Passenger Survival
+* [37](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776312?start=0) Data Preparation using LOD calculation (a variant)
 * 38 Base Sankey Calculations
 * 39 Secondary Calculations
 * 40 Building the Core Chart: Nested Table Calculations
