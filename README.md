@@ -54,7 +54,7 @@
 * [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning ...[*Jonathan Drummey; Joe Mako; Andy Kriebel*] [*'Compute using' and Restart*]
 * [31](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776298?start=0) **'At the level', 'Restarting every', and 'Sort order'** ...[*eg. sort Region by $Sales separately, for each different Segment*]
 * [32](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776300?start=0) Nested Table Calculations ...[*Nelson Davis, Chris Love*]
-* 33 Data Densification review
+* [33](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776302?start=0) Data Densification review
 
 
 ### §6 Sankey Diagram
