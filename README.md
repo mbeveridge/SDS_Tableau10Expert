@@ -58,6 +58,20 @@
 
 
 ### §6 Sankey Diagram
+
+* 34 Section Intro
+* 35 Background and Use Cases
+* 36 Challenge: Titanic Passenger Survival
+* 37 Data Preparation using LOD calculation (a variant)
+* 38 Base Sankey Calculations
+* 39 Secondary Calculations
+* 40 Building the Core Chart: Nested Table Calculations
+* 41 Percents of Totals
+* 42 Completing the Visualization
+* 43 Homework: Double Sankey
+* 44 Homework: Answers
+
+
 ### §7 Likert Scale Visualization
 ### §8 Advanced Dashboard Layout Techniques
 ### §9 Hamburger Menu with Navigation
