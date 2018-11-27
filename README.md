@@ -65,8 +65,8 @@
 * [37](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776312?start=0) Data Preparation using LOD calculation (a variant) (**step1**)
 * [38](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776314?start=0) Base Sankey Calculations (**step2**) ...[`t`; `Sigmoid`]
 * [39](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776316?start=0) Secondary Calculations (**step3**) ...[`Rank1`; `Rank2`; `Curve`]
-* [40](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776320?start=0) Building the Core Chart: Nested Table Calculations (**step4**)
-* 41 Percents of Totals
+* [40](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776320?start=0) Building the Core Chart: Nested Table Calculations (**step4**) ...[*Nested Calculations on `Rank1` etc, @1'35-*]
+* [41](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776322?start=0) Percents of Totals (**step5**)
 * 42 Completing the Visualization
 * 43 Homework: Double Sankey
 * 44 Homework: Answers
