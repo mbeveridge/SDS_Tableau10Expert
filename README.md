@@ -73,6 +73,18 @@
 
 
 ### §7 Likert Scale Visualization
+
+* 45 Section Intro
+* 46 Background and Use Cases
+* 47 Challenge
+* 48 Data Preparation: Lookups, Cleaning and Pivoting
+* 49 Base Likert Calculations
+* 50 Building the Core Chart
+* 51 Adding Summary Totals using a Dual Axis
+* 52 Homework: Adding in New Dimensions
+* 53 Homework: Answers
+
+
 ### §8 Advanced Dashboard Layout Techniques
 ### §9 Hamburger Menu with Navigation
 ### §10 Conclusion
