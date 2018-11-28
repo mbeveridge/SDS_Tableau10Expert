@@ -60,7 +60,7 @@
 ### §6 Sankey Diagram
 
 * [34](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776306?start=0) Section Intro
-* [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[*Jeffrey Shaffer; Olivier Catherin; Chris Love*]
+* [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[*Jeffrey Shaffer; Olivier Catherin; Chris [Love](https://sciolisticramblings.wordpress.com/2018/11/23/sankey-charts-the-new-pie-chart/)*]
 * [36](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776310?start=0) Challenge: Titanic Passenger Survival
 * [37](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776312?start=0) Data Preparation using LOD calculation (a variant) (**step1**)
 * [38](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776314?start=0) Base Sankey Calculations (**step2**) ...[`t`; `Sigmoid`]
@@ -69,7 +69,7 @@
 * [41](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776322?start=0) Percents of Totals (**step5**) ...[*2 extra sheets*]
 * [42](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776324?start=0) Completing the Visualization (**step6**) ...[*dashboard, highlight actions, brief recap*]
 * [43](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776326?start=0) Homework: Double Sankey
-* [44](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776328?start=0) Homework: Answers
+* [44](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776328?start=0) Homework: Answers ...[`ToPad2`; `Padded2`]
 
 
 ### §7 Likert Scale Visualization
