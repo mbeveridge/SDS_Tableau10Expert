@@ -69,7 +69,7 @@
 * [41](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776322?start=0) Percents of Totals (**step5**) ...[*2 extra sheets*]
 * [42](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776324?start=0) Completing the Visualization (**step6**) ...[*dashboard, highlight actions, brief recap*]
 * [43](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776326?start=0) Homework: Double Sankey
-* [44](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776328?start=0) Homework: Answers ...[`ToPad2`; `Padded2`]
+* [44](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776328?start=0) Homework: **Answers** ...[`ToPad2`; `Padded2`] [*See Q&A*]
 
 
 ### §7 Likert Scale Visualization
