@@ -77,7 +77,7 @@
 * [45](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776330?start=0) Section Intro
 * [46](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776332?start=0) Background and Use Cases ...[*Steve Wexler*]
 * [47](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776334?start=0) Challenge: Restaurant Survey Data
-* 48 Data Preparation: Lookups, Cleaning and Pivoting
+* [48](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776336?start=0) Data Preparation: Lookups, Cleaning and Pivoting
 * 49 Base Likert Calculations
 * 50 Building the Core Chart
 * 51 Adding Summary Totals using a Dual Axis
