@@ -74,7 +74,7 @@
 
 ### §7 Likert Scale Visualization
 
-* 45 Section Intro
+* [45](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776330?start=0) Section Intro
 * 46 Background and Use Cases
 * 47 Challenge
 * 48 Data Preparation: Lookups, Cleaning and Pivoting
