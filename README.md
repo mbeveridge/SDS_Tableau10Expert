@@ -79,10 +79,10 @@
 * [47](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776334?start=0) Challenge: Restaurant Survey Data
 * [48](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776336?start=0) Data Preparation: Lookups, Cleaning and Pivoting (**step1**)
 * [49](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776338?start=0) Base Likert Calculations (**step2**)
-* 50 Building the Core Chart
-* 51 Adding Summary Totals using a Dual Axis
+* 50 Building the Core Chart (**step3**)
+* 51 Adding Summary Totals using a Dual Axis (**step4**)
 * 52 Homework: Adding in New Dimensions
-* 53 Homework: Answers
+* 53 Homework: **Answers**
 
 
 ### §8 Advanced Dashboard Layout Techniques
