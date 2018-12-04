@@ -78,7 +78,7 @@
 * [46](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776332?start=0) Background and Use Cases ...[*[Steve](https://public.tableau.com/profile/swexler) Wexler : [@VizBizWiz](https://twitter.com/vizbizwiz)*]
 * [47](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776334?start=0) Challenge: Restaurant Survey Data
 * [48](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776336?start=0) Data Preparation: Lookups, Cleaning and Pivoting (**step1**) ...[*End of Excel cleaning @5'55; start of Tableau pivot @6'55*]
-* [49](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776338?start=0) Base Likert Calculations (**step2**)
+* [49](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776338?start=0) Base Likert Calculations (**step2**) ...[*`Answer`; `NegativeCount`; `TotalNegativeCount`*]
 * 50 Building the Core Chart (**step3**)
 * 51 Adding Summary Totals using a Dual Axis (**step4**)
 * 52 Homework: Adding in New Dimensions
