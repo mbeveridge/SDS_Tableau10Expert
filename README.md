@@ -81,7 +81,7 @@
 * [49](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776338?start=0) Base Likert Calculations (**step2**) ...[*`Answer`; `Negative Count`; `Total Negative Count`; `Total Count`; `Gantt Start`; `Percentage`; `Gantt Percent`*]
 * [50](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776340?start=0) Building the Core Chart (**step3**)
 * [51](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776342?start=0) Adding Summary Totals using a Dual Axis (**step4**)
-* 52 Homework: Adding in New Dimensions
+* [52](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776346?start=0) Homework: Adding in New Dimensions
 * 53 Homework: **Answers**
 
 
