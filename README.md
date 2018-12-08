@@ -86,6 +86,14 @@
 
 
 ### §8 Advanced Dashboard Layout Techniques
+
+* 54 Section Intro
+* 55 Dashboard Objects Review
+* 56 Tiled v's Floating Layout Mechanics
+* 57 Sizing: Containers and Dashboards
+* 58 Navigation using Actions
+
+
 ### §9 Hamburger Menu with Navigation
 ### §10 Conclusion
 
