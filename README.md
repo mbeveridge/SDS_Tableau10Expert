@@ -88,7 +88,7 @@
 ### §8 Advanced Dashboard Layout Techniques
 
 * [54](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776352?start=0) Section Intro
-* 55 Dashboard Objects Review
+* [55](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776354?start=0) Dashboard Objects Review
 * 56 Tiled v's Floating Layout Mechanics
 * 57 Sizing: Containers and Dashboards
 * 58 Navigation using Actions
