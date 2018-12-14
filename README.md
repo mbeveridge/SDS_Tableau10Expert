@@ -89,9 +89,9 @@
 
 * [54](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776352?start=0) Section Intro
 * [55](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776354?start=0) Dashboard Objects Review ...[*Horizontal, Vertical, Text, Image, Web Page, Blank*]
-* [56](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776356?start=0) **Tiled v's Floating** Layout Mechanics
-* [57](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776358?start=0) **Sizing**: Containers and Dashboards
-* 58 Navigation using Actions
+* [56](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776356?start=0) Tiled v's Floating Layout Mechanics ...[*'Layout' tab*]
+* [57](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776358?start=0) Sizing: Containers and Dashboards
+* [58](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776360?start=0) Navigation using Actions
 
 
 ### §9 Hamburger Menu with Navigation
