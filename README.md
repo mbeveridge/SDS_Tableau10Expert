@@ -96,8 +96,9 @@
 
 ### §9 Hamburger Menu with Navigation
 
-* [60](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7799750?start=0) Background and Use Cases
-* [61](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776500?start=0) Challenge: Regional Store Reporting
+* [59](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7799750?start=0) Section Intro
+* [60](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776500?start=0) Background and Use Cases ...[*Robert Rouse*]
+* [61]() Challenge: Regional Store Reporting
 * 62 Base Containers and Layout
 * 63 Extra Practice: Applying the Layout to Regions
 * 64 Building the Hamburger Menu: Custom Shapes
