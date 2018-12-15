@@ -95,6 +95,18 @@
 
 
 ### §9 Hamburger Menu with Navigation
+
+* 60 Background and Use Cases
+* 61 Challenge: Regional Store Reporting
+* 62 Base Containers and Layout
+* 63 Extra Practice: Applying the Layout to Regions
+* 64 Building the Hamburger Menu: Custom Shapes
+* 65 Building the Hamburger Menu: Show/Hide Action
+* 66 Navigation and Completing the Visualization
+* 67 Homework: Building out Full Functionality
+* 68 Homework: Answers
+
+
 ### §10 Conclusion
 
 
