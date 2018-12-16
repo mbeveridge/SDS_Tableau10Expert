@@ -98,7 +98,7 @@
 
 * [59](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7799750?start=0) Section Intro
 * [60](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776500?start=0) Background and Use Cases ...[*Robert Rouse*]
-* [61](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776502?start=0) Challenge: Regional Store Reporting
+* [61](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776502?start=0) Challenge: Regional Store Reporting ...[*'Base Workbook' on [TableauPublic](https://public.tableau.com/profile/ben.young#!/vizhome/BaseWorkbook_0/ExecutiveSummary)*]
 * [62](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776504?start=0) Base Containers and Layout
 * 63 Extra Practice: Applying the Layout to Regions
 * 64 Building the Hamburger Menu: Custom Shapes
