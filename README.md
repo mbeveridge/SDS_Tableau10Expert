@@ -101,7 +101,7 @@
 * [61](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776502?start=0) Challenge: Regional Store Reporting ...[*'Base Workbook' from [TableauPublic](https://public.tableau.com/profile/ben.young#!/vizhome/BaseWorkbook_0/ExecutiveSummary)*]
 * [62](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776504?start=0) **Base Containers and Layout** ...[*Blank(non-Fixed) | Filters(F) | Dashboard(F); sizing begins @5'30*]
 * [63](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776506?start=2) Extra Practice: Applying the Layout to Regions ...[*2 repeats of L62 process*]
-* [64](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776508?start=0) Building the Hamburger Menu: Custom Shapes
+* [64](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776508?start=0) Building the Hamburger Menu: Custom Shapes ...[*Close & Menu; `1`*]
 * 65 Building the Hamburger Menu: Show/Hide Action
 * 66 Navigation and Completing the Visualization
 * 67 Homework: Building out Full Functionality
