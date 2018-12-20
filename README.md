@@ -105,7 +105,7 @@
 * [65](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776510?start=0) Building the Hamburger Menu: **Show/Hide Action**
 * [66](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776512?start=0) Navigation and Completing the Visualization
 * [67](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776516?start=0) Homework: Building out Full Functionality
-* 68 Homework: Answers
+* [68](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7815498?start=0) Homework: **Answers**
 
 
 ### §10 Conclusion
