@@ -97,7 +97,7 @@
 ### §9 Hamburger Menu with Navigation
 
 * [59](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7799750?start=0) Section Intro
-* [60](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776500?start=0) Background and Use Cases ...[*Robert Rouse*]
+* [60](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776500?start=0) Background and Use Cases ...[*[Robert](https://interworks.com/people/robert-rouse/) [Rouse](https://public.tableau.com/profile/robertrouse#!/) : [@bibleviz](https://twitter.com/bibleviz)*]
 * [61](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776502?start=0) Challenge: Regional Store Reporting ...[*'Base Workbook' from [TableauPublic](https://public.tableau.com/profile/ben.young#!/vizhome/BaseWorkbook_0/ExecutiveSummary)*]
 * [62](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776504?start=0) **Base Containers and Layout** ...[*Blank(non-Fixed) | Filters(F) | Dashboard(F); sizing begins @5'30*]
 * [63](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776506?start=2) Extra Practice: Applying the Layout to Regions ...[*2 repeats of L62 process*]
