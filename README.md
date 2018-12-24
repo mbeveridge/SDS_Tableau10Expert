@@ -1,7 +1,8 @@
 [SDS page](https://www.superdatascience.com/tableau-expert-top-visualization-techniques-tableau-10-download-practice-datasets/) for the datasets
 
-9/17 : upto §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")
-29/10/18 : Reset
+*9/17 : Completed to §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")*
+
+*29/10/18 : Reset*
 
 
 ### §1 Introduction
@@ -103,8 +104,8 @@
 * [63](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776506?start=2) Extra Practice: Applying the Layout to Regions ...[*2 repeats of L62 process*]
 * [64](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776508?start=0) Building the Hamburger Menu: **Custom Shapes** ...[*Close & Menu icons; `1`*]
 * [65](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776510?start=0) Building the Hamburger Menu: **Show/Hide Action** ...[*Action created @2'37*]
-* [66](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776512?start=0) **Navigation** and Completing the Visualization ...[`1`] [*Actions created @4'50-5'10 and @8'25-8'45*]
-* [67](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776516?start=0) Homework: **Building out** Full Functionality
+* [66](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776512?start=0) **Navigation** and Completing the Visualization ...[`1`] [*Actions created @4'50-5'10 and @8'25-8'45*] upto 8'13 atm
+* [67](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776516?start=0) Homework: Building out Full Functionality
 * [68](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7815498?start=0) Homework: **Answers**
 
 
