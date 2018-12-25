@@ -1,6 +1,6 @@
 [SDS page](https://www.superdatascience.com/tableau-expert-top-visualization-techniques-tableau-10-download-practice-datasets/) for the datasets
 
-*9/17 : Completed to §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")*
+*x/9/17 : Completed to §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")*
 
 *29/10/18 : Reset*
 
@@ -8,7 +8,7 @@
 ### §1 Introduction
 
 * [01](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7766990?start=0) Course Intro
-* [02](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/9237292?start=0) Some Additional Resources!! ...[[SDS081](https://www.superdatascience.com/data-visualization-training/) podcast: Nadieh Bremer]
+* [02](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/9237292?start=0) Some Additional Resources!! ...[*[SDS081](https://www.superdatascience.com/data-visualization-training/) podcast: Nadieh Bremer*]
 
 
 ### §2 Domain Padding and Data Densification
@@ -52,7 +52,7 @@
 
 * [28](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776292?start=0) Section Intro
 * [29](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776294?start=0) Basic Table Calculations review
-* [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning ...[*Jonathan Drummey; Joe Mako; Andy Kriebel*] [*'Compute using' and Restart*]
+* [30](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776296?start=0) Addressing and Partitioning ...[*[Jonathan](http://drawingwithnumbers.artisart.org/) [Drummey](https://public.tableau.com/profile/jonathan.drummey#!/); Joe Mako; Andy Kriebel*] [*'Compute using' and Restart*]
 * [31](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776298?start=0) **'At the level', 'Restarting every', and 'Sort order'** ...[*eg. sort Region by $Sales separately, for each different Segment*]
 * [32](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776300?start=0) Nested Table Calculations ...[*See Q&A*] [*Nelson Davis; Chris Love*]
 * [33](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776302?start=0) Data Densification review ...[*See Q&A*]
