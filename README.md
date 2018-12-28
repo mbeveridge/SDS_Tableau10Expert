@@ -61,7 +61,7 @@
 ### §6 Sankey Diagram
 
 * [34](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776306?start=0) Section Intro
-* [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[*Jeffrey Shaffer; Olivier Catherin; Chris [Love](https://sciolisticramblings.wordpress.com/2018/11/23/sankey-charts-the-new-pie-chart/)*]
+* [35](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776308?start=0) Background and Use Cases ...[*Jeffrey [Shaffer](https://public.tableau.com/profile/jeffs8297#!/); Olivier Catherin; Chris [Love](https://sciolisticramblings.wordpress.com/2018/11/23/sankey-charts-the-new-pie-chart/)*]
 * [36](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776310?start=0) Challenge: Titanic Passenger Survival
 * [37](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776312?start=0) Data Preparation using LOD calculation (a variant) (**step1**)
 * [38](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776314?start=0) Base Sankey Calculations (**step2**) ...[`t`; `Sigmoid`]
