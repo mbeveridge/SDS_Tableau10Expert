@@ -2,7 +2,7 @@
 
 *x/9/17 : Completed to §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")*
 
-*29/10-30/12/18 : Completed (72 items)*
+*29/10-30/12/18 : Completed. (72 items)*
 
 
 ### §1 Introduction
@@ -112,3 +112,5 @@
 ### §10 Conclusion
 
 * [69](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7776524?start=23) Congratulations!
+
+![certificate](UC-P5MZ36PS.jpg "certificate")
