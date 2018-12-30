@@ -2,7 +2,7 @@
 
 *x/9/17 : Completed to §2L6 ("Data prep using Custom SQL"). ("5 of 71 items complete")*
 
-*29/10/18 : Reset*
+*29/10-30/12/18 : Completed (72 items)*
 
 
 ### §1 Introduction
