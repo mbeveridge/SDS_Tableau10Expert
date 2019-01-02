@@ -8,7 +8,7 @@
 ### §1 Introduction
 
 * [01](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/7766990?start=0) Course Intro
-* [02](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/9237292?start=0) Some Additional Resources!! ...[*[SDS081](https://www.superdatascience.com/data-visualization-training/) podcast: [Nadieh](https://www.visualcinnamon.com/) Bremer*]
+* [02](https://www.udemy.com/mastering-top-visualization-techniques-in-tableau/learn/v4/t/lecture/9237292?start=0) Some Additional Resources!! ...[*[SDS081](https://www.superdatascience.com/data-visualization-training/) podcast: [Nadieh](https://www.visualcinnamon.com/) Bremer : [@nadiehbremer](https://twitter.com/nadiehbremer)*]
 
 
 ### §2 Domain Padding and Data Densification
